@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':in-memory-repo')
+    implementation project(':common')
+
+    testImplementation project(':test-utils')
+}

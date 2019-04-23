@@ -1,0 +1,8 @@
+rootProject.name = 'account-tx'
+
+include ':accounts'
+include ':common'
+include ':in-memory-repo'
+include ':main'
+include ':test-utils'
+include ':test'

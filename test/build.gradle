@@ -1,0 +1,6 @@
+dependencies {
+    testImplementation project(':common')
+    testImplementation project(':main')
+    testImplementation project(':in-memory-repo')
+    testImplementation project(':accounts')
+}
